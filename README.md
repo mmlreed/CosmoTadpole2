@@ -6,6 +6,7 @@ Code associated with the paper Climatic controls on soil production, transport a
 Here, we implemented some climate-sensitive earth surface processes into a landscape evolution model with an integrated 10Be tracer. In the paper, we compared modeled inferred denudation rates from 10Be to field-derived data from a paleo-lake core.
 
 Other relevant (and great) papers on the cores at Little Lake:
+
 https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/129/5-6/715/207851/Late-Quaternary-climatic-controls-on-erosion-rates
 https://pubs.geoscienceworld.org/gsa/geology/article-abstract/47/7/613/570316/The-interplay-between-physical-and-chemical
 
