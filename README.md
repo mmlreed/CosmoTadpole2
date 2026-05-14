@@ -15,7 +15,8 @@ This is MATLAB-based model, but may be able to run on GNU Octave if you can get 
 To run the model from the paper, 
 
 a) load the g_p_little_lake_steady_state.mat file,
-b) [~, output] = Tadpole(g,p).
+
+b) [~, output] = Tadpole(g.S, g, p).
 
 If you want to run the model on your own topography, send me an email at mreed5 [at] mail.wvu.edu / miles [at] hillslope.org, and we can get it set up.
 
